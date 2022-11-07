@@ -9,14 +9,14 @@
 	Build with VuePress.
   </p>
 
-<a href="https://github.com/AlxisHenry/convert.py/issues"><strong>Getting Started »</strong></a>
+<a href="https://docs.alexishenry.eu"><strong>Getting Started »</strong></a>
 
 <h4>
-    <a href="https://github.com/AlxisHenry/convert.py/issues">Voir la documentation </a>
+    <a href="https://docs.alexishenry.eu">Voir la documentation </a>
   <span> · </span>
-    <a href="https://github.com/AlxisHenry/convert.py/issues">Faire part d'un bug</a>
+    <a href="https://github.com/AlxisHenry/docs/issues">Faire part d'un bug</a>
   <span> · </span>
-    <a href="https://github.com/AlxisHenry/convert.py/issues">Partager une idée</a>
+    <a href="https://github.com/AlxisHenry/docs/issues">Partager une idée</a>
   </h4>
 </div>
 
