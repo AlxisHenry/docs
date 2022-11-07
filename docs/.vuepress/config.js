@@ -1,8 +1,10 @@
+
 import { defaultTheme } from "vuepress";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { containerPlugin } from "@vuepress/plugin-container";
 
 export default {
+  base: "/docs/",
   theme: defaultTheme({
     sidebar: [
       // SidebarItem
