@@ -1,0 +1,8 @@
+node_modules
+.temp
+cache
+pnpm-debug.log
+pnpm-lock.yaml
+.env
+dist
+.cache
