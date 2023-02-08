@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.105cc904.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/battle-card-game.md","lastUpdated":null}'),r={name:"guide/projects/battle-card-game.md"};function c(o,s,d,n,p,l){return a(),t("div")}const _=e(r,[["render",c]]);export{m as __pageData,_ as default};

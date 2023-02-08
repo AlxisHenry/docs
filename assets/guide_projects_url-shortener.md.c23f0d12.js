@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.105cc904.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/url-shortener.md","lastUpdated":null}'),o={name:"guide/projects/url-shortener.md"};function a(s,n,c,p,d,l){return r(),t("div")}const u=e(o,[["render",a]]);export{_ as __pageData,u as default};
