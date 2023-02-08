@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./app.7616cf90.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/portfolio.md","lastUpdated":null}'),r={name:"guide/projects/portfolio.md"};function a(s,c,p,n,i,d){return o(),e("div")}const f=t(r,[["render",a]]);export{_ as __pageData,f as default};

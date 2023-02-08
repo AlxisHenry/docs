@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.f167600e.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/stock-manager.md","lastUpdated":null}'),r={name:"guide/projects/stock-manager.md"};function o(s,c,n,p,d,i){return a(),t("div")}const l=e(r,[["render",o]]);export{m as __pageData,l as default};

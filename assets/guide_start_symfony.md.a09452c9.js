@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.f167600e.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start/symfony.md","lastUpdated":null}'),s={name:"guide/start/symfony.md"};function o(r,n,c,d,p,i){return a(),e("div")}const f=t(s,[["render",o]]);export{_ as __pageData,f as default};
