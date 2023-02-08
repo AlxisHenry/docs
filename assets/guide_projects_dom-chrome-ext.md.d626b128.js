@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.f167600e.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/dom-chrome-ext.md","lastUpdated":null}'),r={name:"guide/projects/dom-chrome-ext.md"};function a(c,s,d,n,m,p){return o(),t("div")}const l=e(r,[["render",a]]);export{_ as __pageData,l as default};

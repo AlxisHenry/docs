@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./app.f167600e.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/cps.md","lastUpdated":null}'),a={name:"guide/projects/cps.md"};function c(r,o,p,n,d,i){return s(),t("div")}const m=e(a,[["render",c]]);export{l as __pageData,m as default};
