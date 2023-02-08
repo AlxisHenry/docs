@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./app.59d1619a.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/vanilla-portfolio.md","lastUpdated":null}'),a={name:"guide/projects/vanilla-portfolio.md"};function r(n,s,l,c,i,p){return o(),e("div")}const f=t(a,[["render",r]]);export{_ as __pageData,f as default};

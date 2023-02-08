@@ -1,0 +1,1 @@
+import{_ as e,c,o as t}from"./app.89acddbe.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/orgs/cci-campus/cci-appro.md","lastUpdated":null}'),a={name:"guide/orgs/cci-campus/cci-appro.md"};function r(o,s,p,i,n,d){return t(),c("div")}const l=e(a,[["render",r]]);export{m as __pageData,l as default};
