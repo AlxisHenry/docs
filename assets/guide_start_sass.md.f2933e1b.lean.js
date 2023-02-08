@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./app.5bd95857.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start/sass.md","lastUpdated":null}'),a={name:"guide/start/sass.md"};function r(o,n,c,d,p,i){return s(),e("div")}const m=t(a,[["render",r]]);export{l as __pageData,m as default};

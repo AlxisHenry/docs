@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.5bd95857.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/orgs/restiloc/mobile.md","lastUpdated":null}'),r={name:"guide/orgs/restiloc/mobile.md"};function a(s,c,i,n,l,d){return o(),t("div")}const _=e(r,[["render",a]]);export{m as __pageData,_ as default};
