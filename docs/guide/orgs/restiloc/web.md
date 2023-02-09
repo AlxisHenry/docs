@@ -1,9 +1,9 @@
-# Restiloc - Mobile Application <Badge type="tip" text="v0.1.0" />
+# Restiloc - Web Application <Badge type="tip" text="v0.1.0" />
 
 ccc
 
-:::warning Oupss... 
-Offline... Sorry but this project is not available.
+:::tip Nice!
+Online ! You can access it by clicking [here](https://restiloc.space).
 :::
 
 ## Github
