@@ -1,3 +1,26 @@
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const additionalsMembers = []
+
+const members = [
+	...additionalsMembers,
+  {
+		avatar: "https://github.com/AlxisHenry.png",
+		name: "Alexis Henry",
+		title: "Contributor",
+		links: [
+			{ icon: "github", link: "https://github.com/Alxishenry" },
+			{
+				icon: "linkedin",
+				link: "https://www.linkedin.com/in/alexishenry03",
+			},
+  	],
+  },
+];
+
+</script>
+
 # Vanilla Portfolio <Badge type="warning" text="v1.0.0" />
 
 My first website !
@@ -16,4 +39,8 @@ This project is made only with [HTML](https://developer.mozilla.org/fr/docs/Web/
 
 This is the homepage of the project :
 
-![img](./../static/vanilla-portfolio-home.png)
+![img](/static/vanilla-portfolio-home.png)
+
+## Contributors
+
+<VPTeamMembers size="medium" :members="members" />
