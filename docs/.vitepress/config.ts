@@ -2,32 +2,25 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
     base: "/docs/",
-    title: "📦 Documentations",
-
+    title: "Documentations",
     lastUpdated: true,
     cleanUrls: true,
-
     head: [["meta", { name: "theme-color", content: "#3c8772" }]],
-
     markdown: {
         headers: {
             level: [0, 0],
         },
     },
-
     themeConfig: {
         nav: nav(),
-
         sidebar: {
             "/guide/": sidebarGuide(),
         },
-
         editLink: {
             pattern:
                 "https://github.com/AlxisHenry/docs/edit/master/docs/:path",
             text: "Edit this page on GitHub",
         },
-
         socialLinks: [
             { icon: "github", link: "https://github.com/AlxisHenry" },
             {
@@ -35,18 +28,15 @@ export default defineConfig({
                 link: "https://www.linkedin.com/in/alexishenry03",
             },
         ],
-
         footer: {
-            message: "Released under the MIT License.",
+            message: "MIT Licensed",
             copyright: "Copyright © 2023-present Alexis Henry",
         },
-
         algolia: {
             appId: "Z7MU1KXKY9",
             apiKey: "db0abdb40c41cff16a0b46f56eb7d300",
             indexName: "alexishenry.eu",
         },
-
         carbonAds: {
             code: "CEBDT27Y",
             placement: "vuejsorg",
