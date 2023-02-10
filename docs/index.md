@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Alexis Henry
 
 hero:
   name: Alexis Henry
