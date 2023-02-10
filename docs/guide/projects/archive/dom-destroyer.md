@@ -35,7 +35,7 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+I've decided to do this project because I wan't to learn how to create an [Google Chrome Extension](https://developer.chrome.com/docs/extensions/). This extension hide all html elements of any pages when you load it.
 
 ## Contributors
 
