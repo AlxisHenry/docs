@@ -35,7 +35,7 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+The project was given to me during my studies. The goal was to reshape a website. Only the HTML structure was given to us. At the same moment I was learning [Javascript](https://www.javascript.com/), so I've decided to implement some features that allow user interactions.
 
 ## Contributors
 
