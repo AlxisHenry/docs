@@ -23,10 +23,10 @@ const members = [
 
 # Sport Addict <Badge type="warning" text="v1.0.0" />
 
-ccc
+<br>
 
-:::warning Oupss... 
-Offline... Sorry but this project is not available.
+::: tip Nice!
+Online ! You can access it by clicking [here](https://alxishenry.github.io/sport-addict/).
 :::
 
 ## Github

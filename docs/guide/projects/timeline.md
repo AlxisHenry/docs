@@ -23,7 +23,7 @@ const members = [
 
 # Timeline <Badge type="tip" text="v1.0.0" />
 
-Simple github repositories update timeline ⌚
+<br>
 
 ::: tip Nice!
 Online ! You can access it by clicking [here](https://alxishenry.github.io/timeline/).
@@ -34,6 +34,8 @@ Online ! You can access it by clicking [here](https://alxishenry.github.io/timel
 This project is open-source and available on a Github repository, accessible [here](https://github.com/AlxisHenry/timeline).
 
 ## Presentation
+
+**Simple github repositories update timeline ⌚**
 
 This project use <strong>JSX</strong>, he's made with [React](https://fr.reactjs.org/) and [Typescript](https://www.typescriptlang.org/). 
 

@@ -32,7 +32,7 @@ const members = [
 
 # Slides <Badge type="tip" text="v0.0.4" />
 
-Slides presentations like powerpoint, but in a browser 😐
+<br>
 
 :::warning Oupss... 
 Offline... Sorry but this project is not available.
@@ -43,6 +43,8 @@ Offline... Sorry but this project is not available.
 This project is open-source and available on a Github repository, accessible [here](https://github.com/AlxisHenry/slides).
 
 ## Presentation
+
+**Slides presentations like powerpoint, but in a browser 😐**
 
 This project is made with HTML, CSS and javascript. He's based on [reveal.js](https://revealjs.com/), a javascript HTML Presentation Framework. I create an interface, in [php](https://www.php.net/), to see more easily the availables slides.
 
