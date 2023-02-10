@@ -35,7 +35,7 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+// TODO
 
 ## Contributors
 
