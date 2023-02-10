@@ -35,7 +35,11 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+This project is my first [React](https://fr.reactjs.org/) project. It's a website with a feature that allow you to calculate your clicks per second. Inspired by [cpstest.click](https://cpstest.click/fr).
+
+Preview of the homepage :
+
+![cpstest.png](/static/cpstest.png)
 
 ## Contributors
 
