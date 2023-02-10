@@ -35,7 +35,13 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+This is a little card game made with [PHP](https://php.net/), to introduce me to [POO](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP). 
+
+Techs used :
+
+- [PHP](https://php.net/)
+- [PHPUnit](https://phpunit.readthedocs.io/)
+- [PHPStan](https://phpstan.org/)
 
 ## Contributors
 
