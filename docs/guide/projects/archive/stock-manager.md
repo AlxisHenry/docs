@@ -35,7 +35,11 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+During my sandwich course at The Timken Company, I developed a web application for inventory management. This web application allows us to manage all of IT equipments. This application was made without frameworks. I only used [PHP](https://php.net) and [Javascript](https://javascript.com).
+
+Preview of the dashboard page :
+
+![img](/static/stock-manager.png)
 
 ## Contributors
 
