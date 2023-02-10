@@ -40,7 +40,7 @@ const members = [
 
 # Restiloc - Mobile Application <Badge type="tip" text="v0.1.0" />
 
-ccc
+<br>
 
 :::warning Oupss... 
 Offline... Sorry but this project is not available.
@@ -52,7 +52,9 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+:::danger
+**Sorry, but this project isn't finished, so I can't present it now.**
+:::
 
 ## Contributors
 
