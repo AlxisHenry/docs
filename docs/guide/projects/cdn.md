@@ -21,7 +21,7 @@ const members = [
 
 </script>
 
-# CDN <Badge type="tip" text="v1.0.9" />
+# CDN <Badge type="tip" text="v1.1.0" />
 
 <br>
 
