@@ -21,7 +21,7 @@ const members = [
 
 </script>
 
-# Server Maintenance Tool <Badge type="tip" text="v0.0.1" />
+# Server Maintenance Tool <Badge type="tip" text="v1.0.0" />
 
 <br>
 
