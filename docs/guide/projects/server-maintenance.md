@@ -35,7 +35,15 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-// TODO
+This project allow you to manage some features with an interface on Ubuntu 22.04.
+
+Following features are availables:
+
+- Get some informations about your system (ram usage...)
+- Manage differents services (apache, mariadb, postfix)
+- Generate a dump of mysql databases
+
+This project is not archived, some update can be performed.
 
 ## Contributors
 
