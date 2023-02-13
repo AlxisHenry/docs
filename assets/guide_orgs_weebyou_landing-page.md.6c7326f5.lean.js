@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t}from"./app.1885628c.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/orgs/weebyou/landing-page.md","lastUpdated":1676321838000}'),n={name:"guide/orgs/weebyou/landing-page.md"};function o(r,s,d,c,i,p){return a(),t("div")}const l=e(n,[["render",o]]);export{_ as __pageData,l as default};
