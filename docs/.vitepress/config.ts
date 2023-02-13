@@ -87,6 +87,10 @@ function sidebarGuide() {
                     link: "/guide/projects/server-maintenance",
                 },
                 {
+                    text: "Dotfiles",
+                    link: "/guide/projects/dotfiles",
+                },
+                {
                     text: "Archived",
                     collapsed: false,
                     items: [
