@@ -35,7 +35,11 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-// TODO
+This repository contain my dotfiles.
+
+With this repository I can setup easily my environment (windows or linux). Becareful if you want to use this, check the code and be sure before launch it.
+
+For Windows I use [chocolatey](https://chocolatey.org/), the package manager of this operating system.
 
 ## Contributors
 
