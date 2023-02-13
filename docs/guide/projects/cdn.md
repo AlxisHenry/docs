@@ -1,7 +1,16 @@
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
-const additionalsMembers = []
+const additionalsMembers = [
+	{
+        avatar: 'https://github.com/Vladimir9595.png',
+        name: 'Vladimir Sacchetto',
+        title: 'Contributor',
+        links: [
+          { icon: 'github', link: 'https://github.com/Vladimir9595' }
+        ]
+	}
+]
 
 const members = [
 	...additionalsMembers,
