@@ -35,7 +35,14 @@ This project is open-source and available on a Github repository, accessible [he
 
 ## Presentation
 
-ccc
+Getting started with Symfony with creating a simple CRUD.
+
+This CRUD allow you to create, update, delete users.
+
+Techs used :
+
+- [Symfony](https://symfony.com/²²)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Contributors
 
