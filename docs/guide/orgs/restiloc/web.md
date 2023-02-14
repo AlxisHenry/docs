@@ -37,7 +37,7 @@
 	];
 </script>
 
-# Restiloc - Web Application <Badge type="tip" text="v0.1.0" />
+# Restiloc - Web Application <Badge type="tip" text="v0.1.1" />
 
 <br>
 
