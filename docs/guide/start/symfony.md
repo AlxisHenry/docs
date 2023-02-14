@@ -23,7 +23,7 @@ const members = [
 
 # Getting started with Symfony <Badge type="warning" text="v1.0.0" />
 
-ccc
+<br>
 
 :::warning Oupss... 
 Offline... Sorry but this project is not available.
