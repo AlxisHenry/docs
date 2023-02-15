@@ -30,7 +30,7 @@ const members = [
 
 </script>
 
-# CDN <Badge type="tip" text="v1.2.2" />
+# CDN <Badge type="tip" text="v1.2.3" />
 
 <br>
 
