@@ -21,7 +21,7 @@ const members = [
 
 </script>
 
-# Timeline <Badge type="tip" text="v1.0.0" />
+# Timeline <Badge type="tip" text="v1.1.0" />
 
 <br>
 
