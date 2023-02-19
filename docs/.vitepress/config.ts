@@ -91,8 +91,43 @@ function sidebarGuide() {
                     link: "/guide/projects/dotfiles",
                 },
                 {
+                    text: "Organizations",
+                    collapsed: true,
+                    items: [
+                        {
+                            text: "CCI-Campus",
+                            collapsed: true,
+                            items: [
+                                {
+                                    text: "CCI-Appro",
+                                    link: "/guide/orgs/cci-campus/cci-appro",
+                                },
+                            ],
+                        },
+                        {
+                            text: "Restiloc",
+                            collapsed: true,
+                            items: [
+                                { text: "Web Application", link: "/guide/orgs/restiloc/web" },
+                                {
+                                    text: "Mobile Application",
+                                    link: "/guide/orgs/restiloc/mobile",
+                                },
+                            ],
+                        },
+                    ],
+                },
+                {
+                    text: "Getting Started With",
+                    collapsed: true,
+                    items: [
+                        { text: "Sass", link: "/guide/start/sass" },
+                        { text: "Symfony", link: "/guide/start/symfony" },
+                    ],
+                },
+                {
                     text: "Archived",
-                    collapsed: false,
+                    collapsed: true,
                     items: [
                         {
                             text: "Click/s",
@@ -123,39 +158,14 @@ function sidebarGuide() {
             ],
         },
         {
-            text: "Organizations",
+            text: "Projects",
             collapsed: true,
             items: [
                 {
-                    text: "CCI-Campus",
-                    collapsed: true,
-                    items: [
-                        {
-                            text: "CCI-Appro",
-                            link: "/guide/orgs/cci-campus/cci-appro",
-                        },
-                    ],
-                },
-                {
-                    text: "Restiloc",
-                    collapsed: true,
-                    items: [
-                        { text: "Web Application", link: "/guide/orgs/restiloc/web" },
-                        {
-                            text: "Mobile Application",
-                            link: "/guide/orgs/restiloc/mobile",
-                        },
-                    ],
-                },
-            ],
-        },
-        {
-            text: "Getting Started With",
-            collapsed: true,
-            items: [
-                { text: "Sass", link: "/guide/start/sass" },
-                { text: "Symfony", link: "/guide/start/symfony" },
-            ],
-        },
+                    text: "TrueNAS",
+                    link: "/guide/projects/truenas"
+                }
+            ]
+        }
     ];
 }
