@@ -72,23 +72,23 @@ function sidebarGuide() {
             text: "Repositories",
             collapsed: false,
             items: [
-                { text: "Portfolio", link: "/guide/projects/portfolio" },
-                { text: "CDN", link: "/guide/projects/cdn" },
-                { text: "Timeline", link: "/guide/projects/timeline" },
-                { text: "Slides", link: "/guide/projects/slides" },
-                { text: "Convert.py", link: "/guide/projects/convert" },
+                { text: "Portfolio", link: "/guide/repositories/portfolio" },
+                { text: "CDN", link: "/guide/repositories/cdn" },
+                { text: "Timeline", link: "/guide/repositories/timeline" },
+                { text: "Slides", link: "/guide/repositories/slides" },
+                { text: "Convert.py", link: "/guide/repositories/convert" },
                 {
                     text: "URL Shortener",
-                    link: "/guide/projects/url-shortener",
+                    link: "/guide/repositories/url-shortener",
                 },
-                { text: "Deployment", link: "/guide/projects/deployment" },
+                { text: "Deployment", link: "/guide/repositories/deployment" },
                 {
                     text: "Server Maintenance",
-                    link: "/guide/projects/server-maintenance",
+                    link: "/guide/repositories/server-maintenance",
                 },
                 {
                     text: "Dotfiles",
-                    link: "/guide/projects/dotfiles",
+                    link: "/guide/repositories/dotfiles",
                 },
                 {
                     text: "Organizations",
@@ -100,7 +100,7 @@ function sidebarGuide() {
                             items: [
                                 {
                                     text: "CCI-Appro",
-                                    link: "/guide/orgs/cci-campus/cci-appro",
+                                    link: "/guide/repositories/orgs/cci-campus/cci-appro",
                                 },
                             ],
                         },
@@ -108,10 +108,10 @@ function sidebarGuide() {
                             text: "Restiloc",
                             collapsed: true,
                             items: [
-                                { text: "Web Application", link: "/guide/orgs/restiloc/web" },
+                                { text: "Web Application", link: "/guide/repositories/orgs/restiloc/web" },
                                 {
                                     text: "Mobile Application",
-                                    link: "/guide/orgs/restiloc/mobile",
+                                    link: "/guide/repositories/orgs/restiloc/mobile",
                                 },
                             ],
                         },
@@ -121,8 +121,8 @@ function sidebarGuide() {
                     text: "Getting Started With",
                     collapsed: true,
                     items: [
-                        { text: "Sass", link: "/guide/start/sass" },
-                        { text: "Symfony", link: "/guide/start/symfony" },
+                        { text: "Sass", link: "/guide/repositories/start/sass" },
+                        { text: "Symfony", link: "/guide/repositories/start/symfony" },
                     ],
                 },
                 {
@@ -131,27 +131,27 @@ function sidebarGuide() {
                     items: [
                         {
                             text: "Click/s",
-                            link: "/guide/projects/archive/cpstest",
+                            link: "/guide/repositories/archive/cpstest",
                         },
                         {
                             text: "Stock Manager",
-                            link: "/guide/projects/archive/stock-manager",
+                            link: "/guide/repositories/archive/stock-manager",
                         },
                         {
                             text: "Sport Addict",
-                            link: "/guide/projects/archive/sport-addict",
+                            link: "/guide/repositories/archive/sport-addict",
                         },
                         {
                             text: "DOM Destroyer",
-                            link: "/guide/projects/archive/dom-destroyer",
+                            link: "/guide/repositories/archive/dom-destroyer",
                         },
                         {
                             text: "Vanilla Portfolio",
-                            link: "/guide/projects/archive/vanilla-portfolio",
+                            link: "/guide/repositories/archive/vanilla-portfolio",
                         },
                         {
                             text: "Battle Card Game",
-                            link: "/guide/projects/archive/battle-card-game",
+                            link: "/guide/repositories/archive/battle-card-game",
                         },
                     ],
                 },
