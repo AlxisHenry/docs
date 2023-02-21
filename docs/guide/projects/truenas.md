@@ -67,6 +67,26 @@ Overall, installing TrueNAS on a virtual machine using VMWare and configuring it
 
 ![preview](/static/truenas-disks.png)
 
+## Setup and configuration
+
+Here are the steps to install and configure TrueNAS on a VMWare virtual machine:
+
+- First, download the TrueNAS ISO image from the official website.
+- Open VMWare and create a new virtual machine. Choose "Other" as the operating system type and select "Other OS" as the version.
+- Give the virtual machine a name and select a location for the virtual machine file.
+- Configure the virtual machine hardware, allocating at least 4GB of RAM to TrueNAS.
+- Create a new virtual hard drive for the virtual machine.
+- In the virtual machine settings, select the "CD/DVD" tab and choose "Use ISO image file". Select the TrueNAS ISO image that you downloaded.
+- Start the virtual machine and follow the instructions to install TrueNAS, configuring the network and storage options.
+- Once the installation is complete, restart the virtual machine and log in to the TrueNAS dashboard.
+- Configure the network settings by clicking on "Network" in the left sidebar.
+- Configure the storage by clicking on "Storage" in the left sidebar and creating storage pools for your hard drives.
+- Activate the services you want to use in "Services", such as SMB or NFS file sharing, FTP server, etc.
+- Configure various TrueNAS settings in "System Settings", such as language, time zone, automatic updates, etc.
+- If you need help configuring or using TrueNAS, consult the official TrueNAS documentation.
+
+That's it! You have now installed and configured TrueNAS on a VMWare virtual machine and can start using it to store and share files on your network.
+
 ## Contributors
 
 <VPTeamMembers size="medium" :members="members" />
