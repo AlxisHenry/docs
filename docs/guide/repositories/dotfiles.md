@@ -21,7 +21,7 @@ const members = [
 
 </script>
 
-# Dotfiles <Badge type="tip" text="v0.0.1" />
+# Dotfiles <Badge type="tip" text="v0.1.0" />
 
 <br>
 
