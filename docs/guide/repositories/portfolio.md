@@ -21,7 +21,7 @@ const members = [
 
 </script>
 
-# Portfolio <Badge type="tip" text="v3.4.0" />
+# Portfolio <Badge type="tip" text="v3.5.0" />
 
 <br>
 
