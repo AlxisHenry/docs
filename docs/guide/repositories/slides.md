@@ -30,12 +30,12 @@ const members = [
 
 </script>
 
-# Slides <Badge type="tip" text="v0.0.4" />
+# Slides <Badge type="tip" text="v1.0.0" />
 
 <br>
 
-:::warning Oupss... 
-Offline... Sorry but this project is not available.
+::: tip Nice!
+Online ! You can access it by clicking [here](https://alxishenry.github.io/slides/).
 :::
 
 ## Github
