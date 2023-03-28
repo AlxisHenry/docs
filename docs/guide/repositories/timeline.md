@@ -46,13 +46,38 @@ Some technologies are used too:
 
 It's a website who get your repositories using the github API and show you a timeline of your latest updated repositories. 
 
-The actual website in production use Github Pages doesn't work. You will see a message telling that the token are not valid. The reason is I can't let my github token in the source code of the application.
+If you want to setup in local the application, you will need to follow the readme's instructions in the [github repository](https://github.com/AlxisHenry/timeline).
 
-If you want to setup in local the application, you juste need to follow the readme's instructions in the [github repository](https://github.com/AlxisHenry/timeline).
+**If it's your first time using the application, you will need to enter your github token.**
 
-### Example with my repositories
+- You can get it [here](https://github.com/settings/tokens) (you will need to be logged in)
 
-![Timeline Exemple](/static/timeline.png)
+::: tip
+You can create a new token, and check only the "repo" scope.
+:::
+
+### Authentication
+
+To authenticate, you will need to enter your token in the input field and click on the button below. 
+
+- If the token is valid, you will be redirected to the repositories page, if not, you will see an error message.
+
+![Timeline Homepage](/static/timeline-token.png)
+
+### Localstorage
+
+To avoid entering your token every time you want to use the application, it's stored in your local storage.
+
+::: warning
+Note that because the token is stored in your local storage, if you clear it, you will need to enter it again.
+:::
+
+![Timeline Homepage](/static/timeline-localstorage.png)
+
+### Repositories
+
+After entering your token, you will be redirected to the repositories page. 
+If the token is valid, you will see your repositories ordered by last update and some details about them.
 
 You will see a some details related to the repositories, like :
 
@@ -60,7 +85,13 @@ You will see a some details related to the repositories, like :
 - Description
 - Stars count
 - Forks count
-- Time elapsed since last update (using [moment.js](https://momentjs.com/))
+- Time elapsed since last update (formatted with [moment.js](https://momentjs.com/))
+
+::: danger
+Dates can be wrong, because the github API doesn't provide the exact date of the last update.
+:::
+
+![Timeline Homepage](/static/timeline-repositories.png)
 
 ## Contributors
 
