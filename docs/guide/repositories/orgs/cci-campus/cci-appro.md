@@ -42,8 +42,8 @@ const members = [
 
 <br>
 
-:::tip Nice!
-Online ! You can access it by clicking [here](https://cciappro.alexishenry.eu).
+:::warning Oupss... 
+Offline... Sorry but this project is not available.
 :::
 
 ## Github
