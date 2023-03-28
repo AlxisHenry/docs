@@ -53,9 +53,9 @@ In the online version, some features are not accessible from everyone, they need
 
 ![CDN Homepage](/static/cdn.png)
 
-### Features
+## Features
 
-- **Search**
+### Search
 
 ::: warning
 Note that the project is not using any database. THe he search is made by reading the shared directories and searching for occurences in the name of the files/folders.
@@ -64,15 +64,15 @@ Note that the project is not using any database. THe he search is made by readin
 
 *The first feature is the search bar. It allows you to search for a file or a folder in the current directory. It is possible to search for a file or a folder by name.*
 
-![CDN Homepage](/static/cdn-feat-search.png)
+![CDN Search feature](/static/cdn-feat-search.png)
 
-- **Download in zip format**
+### Download in zip format
 
 *The second feature is the download part. It allows you to choose a file or multiple files to download them in a zip format.*
 
-![CDN Homepage](/static/cdn-feat-download.png)
+![CDN Download feature](/static/cdn-feat-download.png)
 
-- **Upload files**
+### Upload files
 
 ::: warning
 Take care, some checks are made before uploading a file.
@@ -83,7 +83,17 @@ Take care, some checks are made before uploading a file.
 
 *The third feature is the upload part. It allows you to upload a file or multiple files.*
 
-![CDN Homepage](/static/cdn-feat-upload.png)
+![CDN Upload feature](/static/cdn-feat-upload.png)
+
+### CLI
+
+::: danger
+The CLI is not maintained anymore. Take care if you want to use it.
+:::
+
+The command line interface is available [here](https://github.com/AlxisHenry/cdn.alexishenry.eu/tree/sync).
+
+This CLI allows you to upload files to the CDN. Some options are available, for more information, you can use the `--help` option.
 
 ## Contributors
 

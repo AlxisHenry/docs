@@ -59,7 +59,6 @@ $short = Short::create([
  * You will be redirected to the url corresponding to this slug.
  * 
  * @param Short $short
- * 
  * @return \Illuminate\Http\Response
  */
 public function show(Short $short)
@@ -67,6 +66,42 @@ public function show(Short $short)
   return redirect()->away($short->url);
 }
 ```
+
+## Features
+
+### Create a new short
+
+**The main feature of this application is the shortting of URL.**
+
+*You can create a new short by enter the URL you would like to shorten and click on the "SHORT" button.*
+
+::: tip
+New shorts are automatically added to your account.
+:::
+
+![Create a new short](/static/shortener-new.png)
+
+### See all shorts
+
+*You can see all shorts created by all users. You can also see all shorts created by you. You can access to this page by clicking on the "Shorts" link in the navigation*.
+
+:::tip
+The pagination is a custom component.
+:::
+
+![See all shorts](/static/shortener-shorts.png)
+
+### See your shorts
+
+*You can see all shorts created by you. You can access to this page by clicking on the "My shorts" link in the right part of the navbar*.
+
+![See your shorts](/static/shortener-user-shorts.png)
+
+### Account
+
+*You can access to your account by clicking on the "Profile" link in the right part of the navbar*.
+
+![Profile](/static/shortener-profile.png)
 
 ## Contributors
 

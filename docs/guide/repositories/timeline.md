@@ -56,6 +56,8 @@ If you want to setup in local the application, you will need to follow the readm
 You can create a new token, and check only the "repo" scope.
 :::
 
+## Features
+
 ### Authentication
 
 To authenticate, you will need to enter your token in the input field and click on the button below. 
