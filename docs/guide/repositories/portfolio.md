@@ -21,7 +21,7 @@ const members = [
 
 </script>
 
-# Portfolio <Badge type="tip" text="v3.6.5" />
+# Portfolio <Badge type="tip" text="v3.7.0" />
 
 <br>
 
@@ -139,19 +139,20 @@ Email server can be configured with [postfix](https://www.postfix.org/)
 
 ## Features
 
-### Dark mode
+### Dark mode  <Badge type="tip" text="release v3.1" />
 
-*By clicking on the dark mode button, the user can switch to the dark mode. The dark mode is saved in cookies of the user.*
+*By clicking on the dark mode button, the user can switch to the dark mode. The dark mode is saved in cookies.*
 
 ![Homepage portfolio](/static/portfolio-home-dark.png)
 
-### Language switcher
+### Language switcher  <Badge type="tip" text="released v3.7" />
 
-*The user can switch between the languages of the application. The language is saved in cookies of the user.*
+*The user can switch between the languages of the application. The language is saved in the session. Available languages are English and French.*	
 
-::: danger
-This feature is not available yet.
+::: tip
+Please note that the default language is French.
 :::
+
 
 ### Language definition
 
