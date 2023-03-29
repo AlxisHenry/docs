@@ -25,8 +25,8 @@ const members = [
 
 <br>
 
-:::warning Oupss... 
-Offline... Sorry but this project is not available.
+:::tip Nice!
+Online ! You can access it by clicking [here](https://alexishenry.eu/v1).
 :::
 
 ## Github
@@ -39,7 +39,10 @@ This project is made only with [HTML](https://developer.mozilla.org/fr/docs/Web/
 
 This is the homepage of the project :
 
-![img](/static/vanilla-portfolio-home.png)
+![img](/static/portfolio-v1-homepage.png)
+![img](/static/portfolio-v1-how.png)
+![img](/static/portfolio-v1-project.png)
+![img](/static/portfolio-v1-projects.png)
 
 ## Contributors
 

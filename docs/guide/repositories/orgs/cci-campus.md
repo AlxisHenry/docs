@@ -38,23 +38,35 @@ const members = [
 
 </script>
 
-# Restiloc - Mobile Application <Badge type="tip" text="v0.1.0" />
+# CCI-Campus
 
-<br>
+## CCI-Appro
 
 :::warning Oupss... 
 Offline... Sorry but this project is not available.
 :::
 
-## Github
+### Github
 
-This project is open-source and available on a Github repository, accessible [here](https://github.com/Restiloc/api).
-
-## Presentation
-
-:::danger
-**Sorry, but this project isn't finished, so I can't present it now.**
+:::warning
+This website is not open-source, CCI-Campus doesn't provide public access to this repository.
 :::
+
+### Presentation
+
+Study project that consisted of creating a supply provisioning application for the CCI Campus in Strasbourg. It was necessary to upgrade the supply provisioning system and add and improve certain already established features, such as automatic email sending, or the basket validation to avoid errors. We also added a feature allowing to export data in Excel format, to facilitate monitoring.
+
+This project use the following techs:
+
+- [Laravel](https://laravel.com)
+- [AlpineJS](https://alpinejs.dev/)
+- [JS Toolkit](https://github.com/studiometa/js-toolkit) (created by [@studiometa](https://github.com/studiometa))
+
+Preview of the application:
+
+![preview](/static/cciappro.png)
+
+### API REST
 
 ## Contributors
 

@@ -76,83 +76,29 @@ function sidebarGuide() {
                 { text: "CDN", link: "/guide/repositories/cdn" },
                 { text: "Timeline", link: "/guide/repositories/timeline" },
                 { text: "Slides", link: "/guide/repositories/slides" },
-                { text: "Convert.py", link: "/guide/repositories/convert" },
-                {
-                    text: "URL Shortener",
-                    link: "/guide/repositories/url-shortener",
-                },
+                { text: "URL Shortener", link: "/guide/repositories/url-shortener" },
                 { text: "Deployment", link: "/guide/repositories/deployment" },
-                {
-                    text: "Server Maintenance",
-                    link: "/guide/repositories/server-maintenance",
-                },
-                {
-                    text: "Dotfiles",
-                    link: "/guide/repositories/dotfiles",
-                },
+                { text: "Server Maintenance", link: "/guide/repositories/server-maintenance" },
+                { text: "Dotfiles", link: "/guide/repositories/dotfiles" },
                 {
                     text: "Organizations",
                     collapsed: true,
                     items: [
-                        {
-                            text: "CCI-Campus",
-                            collapsed: true,
-                            items: [
-                                {
-                                    text: "CCI-Appro",
-                                    link: "/guide/repositories/orgs/cci-campus/cci-appro",
-                                },
-                            ],
-                        },
-                        {
-                            text: "Restiloc",
-                            collapsed: true,
-                            items: [
-                                { text: "Web Application", link: "/guide/repositories/orgs/restiloc/web" },
-                                {
-                                    text: "Mobile Application",
-                                    link: "/guide/repositories/orgs/restiloc/mobile",
-                                },
-                            ],
-                        },
-                    ],
-                },
-                {
-                    text: "Getting Started With",
-                    collapsed: true,
-                    items: [
-                        { text: "Sass", link: "/guide/repositories/start/sass" },
-                        { text: "Symfony", link: "/guide/repositories/start/symfony" },
+                        { text: "CCI-Campus", link: "/guide/repositories/orgs/cci-campus" },
+                        { text: "Restiloc", link: "/guide/repositories/orgs/restiloc" },
                     ],
                 },
                 {
                     text: "Archived",
                     collapsed: true,
                     items: [
-                        {
-                            text: "Click/s",
-                            link: "/guide/repositories/archive/cpstest",
-                        },
-                        {
-                            text: "Stock Manager",
-                            link: "/guide/repositories/archive/stock-manager",
-                        },
-                        {
-                            text: "Sport Addict",
-                            link: "/guide/repositories/archive/sport-addict",
-                        },
-                        {
-                            text: "DOM Destroyer",
-                            link: "/guide/repositories/archive/dom-destroyer",
-                        },
-                        {
-                            text: "Vanilla Portfolio",
-                            link: "/guide/repositories/archive/vanilla-portfolio",
-                        },
-                        {
-                            text: "Battle Card Game",
-                            link: "/guide/repositories/archive/battle-card-game",
-                        },
+                        { text: "Click/s", link: "/guide/repositories/archive/cpstest" },
+                        { text: "Stock Manager", link: "/guide/repositories/archive/stock-manager" },
+                        { text: "Sport Addict", link: "/guide/repositories/archive/sport-addict" },
+                        { text: "Vanilla Portfolio", link: "/guide/repositories/archive/vanilla-portfolio" },
+                        { text: "Battle Card Game", link: "/guide/repositories/archive/battle-card-game" },
+                        { text: "Sass", link: "/guide/repositories/archive/sass" },
+                        { text: "Symfony", link: "/guide/repositories/archive/symfony" },
                     ],
                 },
             ],
@@ -161,10 +107,8 @@ function sidebarGuide() {
             text: "Projects",
             collapsed: true,
             items: [
-                {
-                    text: "TrueNAS",
-                    link: "/guide/projects/truenas"
-                }
+                { text: "TrueNAS", link: "/guide/projects/truenas" },
+                { text: "ownCloud", link: "/guide/projects/owncloud" }
             ]
         }
     ];
