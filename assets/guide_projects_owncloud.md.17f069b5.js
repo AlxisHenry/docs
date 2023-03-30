@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.71f52624.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/projects/owncloud.md","lastUpdated":1680204418000}'),a={name:"guide/projects/owncloud.md"};function c(r,s,n,d,p,i){return t(),o("div")}const u=e(a,[["render",c]]);export{l as __pageData,u as default};
