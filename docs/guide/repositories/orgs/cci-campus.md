@@ -62,11 +62,16 @@ This project use the following techs:
 - [AlpineJS](https://alpinejs.dev/)
 - [JS Toolkit](https://github.com/studiometa/js-toolkit) (created by [@studiometa](https://github.com/studiometa))
 
-Preview of the application:
+#### Preview of the application:
 
 ![preview](/static/cciappro.png)
 
-### API REST
+## Documentations
+
+Links to the documentation of the projects:
+
+- [Users](https://cdn.alexishenry.eu/shared/pdf/010123%20-%20HENRY.ALEXIS.AP3-Doc-utilisateur.pdf)
+- [Environment](https://cdn.alexishenry.eu/shared/pdf/010123%20-%20HENRY.ALEXIS.AP3-Doc-technique.pdf)
 
 ## Contributors
 
