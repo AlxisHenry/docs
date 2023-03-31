@@ -88,7 +88,7 @@ The design system can be not up to date.
 
 This repository contains the design system of the Restiloc project. You can access it by clicking [here](https://github.com/Restiloc/ui).
 
-## Web application <Badge type="tip" text="v0.1.0" />
+## Web application <Badge type="tip" text="v1.0.0" />
 
 :::tip
 The web application of the Restiloc is in production. You can access it by clicking [here](https://restiloc.space).
@@ -110,7 +110,7 @@ The Restiloc API has a documentation. This documentation is made with [Vitepress
 
 Restiloc owns two mobile applications. The first one is a mobile application developed with [Kotlin](https://kotlinlang.org/). The second one is a mobile application developed with [React Native](https://reactnative.dev/). 
 
-### Kotlin
+### Kotlin <Badge type="tip" text="v0.1.1" />
 
 ::: tip
 The **Kotlin** application is accessible [here](https://github.com/Restiloc/restiloc).
@@ -118,7 +118,7 @@ The **Kotlin** application is accessible [here](https://github.com/Restiloc/rest
 
 This application was made for a school project. This application is not available on the Google Play Store. We made this application with [Kotlin](https://kotlinlang.org/). This application is only available on Android.
 
-### React Native
+### React Native <Badge type="tip" text="v0.2.0" />
 
 ::: tip
 The **React Native** application is accessible [here](https://github.com/Restiloc/restiloc2).
