@@ -77,6 +77,7 @@ function sidebarGuide() {
                 { text: "Timeline", link: "/guide/repositories/timeline" },
                 { text: "Slides", link: "/guide/repositories/slides" },
                 { text: "URL Shortener", link: "/guide/repositories/url-shortener" },
+                { text: "Travels", link: "/guide/repositories/travels" },
                 { text: "Deployment", link: "/guide/repositories/deployment" },
                 { text: "Server Maintenance", link: "/guide/repositories/server-maintenance" },
                 { text: "Dotfiles", link: "/guide/repositories/dotfiles" },
