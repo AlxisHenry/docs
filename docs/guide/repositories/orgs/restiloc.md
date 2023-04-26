@@ -98,7 +98,7 @@ The web application of the Restiloc is in production. You can access it by click
 
 We create a landing page for the Restiloc project. This landing page was created to present the project to the public. You can access it by clicking [here](https://restiloc.space).
 
-### Restiloc API <Badge type="tip" text="v1.1.1" />
+### Restiloc API <Badge type="tip" text="v1.2.0" />
 
 *The Restiloc API is a REST API that is used by the differents mobile application. We made this API with [Laravel](https://laravel.com/).*
 
@@ -118,7 +118,7 @@ The **Kotlin** application is accessible [here](https://github.com/Restiloc/rest
 
 This application was made for a school project. This application is not available on the Google Play Store. We made this application with [Kotlin](https://kotlinlang.org/). This application is only available on Android.
 
-### React Native <Badge type="tip" text="v1.2.1" />
+### React Native <Badge type="tip" text="v1.3.0" />
 
 ::: tip
 The **React Native** application is accessible [here](https://github.com/Restiloc/restiloc2).
